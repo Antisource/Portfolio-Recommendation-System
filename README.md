@@ -20,7 +20,7 @@ To run the Portfolio Recommendation System locally, follow these steps:
 
 2. **Run the App:**
    ```bash
-    python portfolio_recommendation.py
+    python Portfolio recommendation.py
    ```
 
 3. **Follow On-Screen Instructions:**
