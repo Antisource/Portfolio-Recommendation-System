@@ -15,7 +15,7 @@ To run the Portfolio Recommendation System locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourGitHubUsername/Portfolio-Recommendation-System.git
+    git clone https://github.com/Antisource/Portfolio-Recommendation-System.git
    ```
 
 2. **Run the App:**
@@ -31,9 +31,8 @@ To run the Portfolio Recommendation System locally, follow these steps:
 - Ensure you have the required libraries installed. For Google Colab, uncomment the following lines at the beginning of the script:
 
   ```bash
- For COLAB
-!pip install ortools
- !pip install matplotlib
+  !pip install ortools
+  !pip install matplotlib
   ```
 
 ## Output
@@ -45,21 +44,19 @@ To run the Portfolio Recommendation System locally, follow these steps:
 ## Example Usage
 
 ```bash
-
-WELCOME PORTFOLIO RECOMMENDATION SYSTEM !!!
-NIFTY50 
-RULES: 
- Enter 1 to use stored data. 
- Enter 2 for custom data. 
-1
-Enter the amount to be invested. 
-500
-RECOMMENDATION !!!
-Total Risk quotient i.e value = 36
-Total Price i.e weight: 485
-Amount left after investment: 15
-Stocks i.e items number: [3, 6, 14, 15, 20, 24, 27, 29, 36, 37, 40, 44, 46, 47]
-Prices: [59, 67, 38, 48, 17, 35, 22, 50, 15, 26, 36, 43, 10, 19]
-Stock name: ['APOLLOHOSP', 'BAJAJ-AUTO', 'DIVISLAB', 'DRREDDY', 'HDFCLIFE', 'HDFC', 'INDUSINDBK', 'JSWSTEEL', 'ONGC', 'POWERGRID', 'SBIN', 'TATAMOTORS', 'TECHM', 'TITAN']
-
+ WELCOME PORTFOLIO RECOMMENDATION SYSTEM !!!
+ NIFTY50 
+ RULES: 
+  Enter 1 to use stored data. 
+  Enter 2 for custom data. 
+ 1
+ Enter the amount to be invested. 
+ 500
+ RECOMMENDATION !!!
+ Total Risk quotient i.e value = 36
+ Total Price i.e weight: 485
+ Amount left after investment: 15
+ Stocks i.e items number: [3, 6, 14, 15, 20, 24, 27, 29, 36, 37, 40, 44, 46, 47]
+ Prices: [59, 67, 38, 48, 17, 35, 22, 50, 15, 26, 36, 43, 10, 19]
+ Stock name: ['APOLLOHOSP', 'BAJAJ-AUTO', 'DIVISLAB', 'DRREDDY', 'HDFCLIFE', 'HDFC', 'INDUSINDBK', 'JSWSTEEL', 'ONGC', 'POWERGRID', 'SBIN', 'TATAMOTORS', 'TECHM', 'TITAN']
 ```
