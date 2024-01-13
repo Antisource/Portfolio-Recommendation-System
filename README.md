@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Portfolio Recommendation System! This Python script provides a basic implementation of a portfolio recommendation system using the 0/1 knapsack problem. Users can either input their own data or use pre-defined data for NIFTY50 stocks.
+Welcome to the Portfolio Recommendation System! This Python script provides a basic implementation of a portfolio recommendation system using the **0/1 knapsack problem**. Users can either input their own data or use pre-defined data for **NIFTY50** stocks.
 
 ## Features
 
