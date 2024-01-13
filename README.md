@@ -24,8 +24,8 @@ To run the Portfolio Recommendation System locally, follow these steps:
    ```
 
 3. **Follow On-Screen Instructions:**
--Choose 1 for using stored data or 2 for custom data.
--Enter the necessary inputs as prompted.
+- Choose 1 for using stored data or 2 for custom data.
+- Enter the necessary inputs as prompted.
 
 ## Prerequisites
 - Ensure you have the required libraries installed. For Google Colab, uncomment the following lines at the beginning of the script:
